@@ -32,6 +32,7 @@
     }
 	a {
 		display:block;
+		
 	}
 
 </style>
